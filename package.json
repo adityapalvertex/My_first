@@ -1,0 +1,9 @@
+{
+  "name": "chomu-chameleon",
+  "version": "1.0.0",
+  "description": "CHOMU CHAMELEON - online party game server (serves the game + WebSocket rooms)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
